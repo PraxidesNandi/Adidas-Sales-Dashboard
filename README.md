@@ -16,4 +16,4 @@
 ## Project
 <a href = "https://github.com/PraxidesNandi/Adidas-Sales-Dashboard/blob/master/Adidas%20Sales%20Report.pbix"> Project </a>
 ## Dashboard
-<a href = "
+<a href = "https://github.com/PraxidesNandi/Adidas-Sales-Dashboard/blob/master/adidas.png"> Dashboard </a>
