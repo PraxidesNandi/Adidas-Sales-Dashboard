@@ -9,7 +9,9 @@
 -Total sales by state  
 -Total sales and operating profits by product  
 -Total sales by Region  
--Total sales by sales method
+-Total sales by sales method  
 -Top 5 sales by cities 
 ## Dataset
-<a href =
+<a href = "https://github.com/PraxidesNandi/Adidas-Sales-Dashboard/blob/master/Adidas%20US%20Sales%20Datasets.xlsx"> Dataset </a>
+## Project
+<a href = "
