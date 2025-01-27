@@ -14,4 +14,6 @@
 ## Dataset
 <a href = "https://github.com/PraxidesNandi/Adidas-Sales-Dashboard/blob/master/Adidas%20US%20Sales%20Datasets.xlsx"> Dataset </a>
 ## Project
+<a href = "https://github.com/PraxidesNandi/Adidas-Sales-Dashboard/blob/master/Adidas%20Sales%20Report.pbix"> Project </a>
+## Dashboard
 <a href = "
